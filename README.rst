@@ -1,4 +1,4 @@
-Jenkins 
+Jenkins
 =======
 
 1. Uruchom jenkins-a:
@@ -13,6 +13,7 @@ Jenkins
    ::
 
      cat jenkins/secrets/initialAdminPassword
+     docker start jenkins-wsb
 
 3. Wybierz *Suggested plugins*.
 
