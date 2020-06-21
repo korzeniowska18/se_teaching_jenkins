@@ -1,5 +1,7 @@
-Jenkins
+# Jenkins
 =======
+
+![Jenkins](./image/jenkins.png)
 
 1. Uruchom jenkins-a:
 
