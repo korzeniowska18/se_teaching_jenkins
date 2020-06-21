@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2020-06-21 07:29:46.265 UTC</timestamp>
+  <md5sum>c54e41999a57ca0e2603c44524becd4b</md5sum>
+  <fileName>Credential id=5bc49a74-786b-498f-85a0-73ff1f16faca name=korzeniowska18/******</fileName>
+  <usages>
+    <entry>
+      <string>korzeniowska18/se_hello_printer_app/master</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
