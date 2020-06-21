@@ -1,6 +1,8 @@
-## Jenkins
+Jenkins
+--------
+--------
 
-![Jenkins](./image/indeks.png)
+
 
 1. Uruchom jenkins-a:
 
