@@ -1,6 +1,7 @@
 Jenkins
 --------
 --------
+![Jenkins](https://www.jenkins.io/images/logo-title-opengraph.png)
 
 
 
@@ -25,3 +26,5 @@ Related
 -------
 
 - https://github.com/sheehan/job-dsl-gradle-example
+
+
