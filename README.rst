@@ -1,9 +1,6 @@
 Jenkins
 --------
 --------
-![Jenkins](https://www.jenkins.io/images/logo-title-opengraph.png)
-
-
 
 1. Uruchom jenkins-a:
 
